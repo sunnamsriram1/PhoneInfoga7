@@ -1,2 +1,2 @@
 # PhoneInfoga7
-# Create an account in NumVerify and add to the API
+# Create an Account in NumVerify and Add to apikey.py the API
