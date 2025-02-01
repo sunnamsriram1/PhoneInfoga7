@@ -16,8 +16,8 @@ All usage procedures should be performed to not to get any error
 ### Usage
 ```
 apt install python3
-git clone https://github.com/sunnamsriram1/IPI_Rover.git
-cd IPI_Rover
+git clone https://github.com/sunnamsriram1/PhoneInfoga7.git
+cd PhoneInfoga7
 ls
 pip install -r requirements.txt
 python3 finder.py
